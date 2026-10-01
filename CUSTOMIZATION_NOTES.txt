@@ -1,0 +1,28 @@
+DHARMANANDA MADRI PORTFOLIO — CUSTOMIZATION NOTES
+
+The template has been customized for Dharmananda Madri while preserving the original visual design.
+
+Already changed:
+- Page title and meta description
+- Name/role in the hero
+- About section
+- Services
+- Process
+- Experience wording
+- FAQ wording
+- Footer/social links
+- Removed template-only awards, testimonials, pricing and partner sections
+
+Still replace these template images with your own portfolio images:
+- assets/images/section/work-1.jpg
+- assets/images/section/work-2.jpg
+- assets/images/section/work-3.jpg
+- assets/images/section/feature-1.jpg
+- assets/images/section/feature-2.jpg
+
+Also replace:
+- your-email@example.com with your real professional email
+
+Important:
+- Do not publish claims, awards, testimonials, client names or experience that are not true.
+- Keep index.html in the repository root when uploading to GitHub Pages.
